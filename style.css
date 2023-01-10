@@ -14,7 +14,7 @@ body
     height: 500px;
     border: 5px solid white;
     margin: 0 auto; 
-    margin-top: 20px;
+    margin-top: 30px;
     position: relative;
 }
 
@@ -36,7 +36,6 @@ img
 {
     font-size: 20px;
     width: 120px;
-    color: black;
     background-color: white;
     opacity: 0.8;
     padding: 5px 10px;
